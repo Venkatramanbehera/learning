@@ -10,3 +10,4 @@ commands
 6.git push origin master  :-Used for push the file to the git.
 7.git clone repoName   :-Used for download the project in that file.
 8.git pull origin master  :-Used to retrive the new add file to the project
+9.many more are there to do in github.
