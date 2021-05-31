@@ -1,5 +1,5 @@
 git config --global user.email "Venkatramanbehera1@gmail.com"
-git config --global user.name "Venkatramanbehera"
+git config --global user.name "Venkat"
 
 commands
 1.git init    :-add the project to git hub
